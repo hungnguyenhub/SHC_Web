@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>ECO TECH VIỆT - Xử Lý Môi Trường</title>
+  <title>SHC-Membrane</title>
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-slate-50 text-slate-800">
@@ -12,8 +12,8 @@
   <header class="bg-emerald-700 text-white shadow-lg sticky top-0 z-50">
     <div class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
       <div>
-        <h1 class="text-2xl font-bold tracking-wide">ECO TECH VIỆT</h1>
-        <p class="text-sm text-emerald-100">Chế tạo máy & hệ thống xử lý môi trường</p>
+        <h1 class="text-2xl font-bold tracking-wide">SHC-Membrane</h1>
+        <p class="text-sm text-emerald-100">Thiết kế, chế tạo hệ thống xử lý môi trường</p>
       </div>
 
       <nav class="hidden md:flex gap-8 text-sm font-medium">
@@ -79,7 +79,7 @@
         </h3>
 
         <p class="text-slate-600 leading-relaxed mb-5">
-          ECO TECH VIỆT chuyên tư vấn, thiết kế và chế tạo các hệ thống xử lý môi trường đạt tiêu chuẩn kỹ thuật.
+          SHC-Membrane chuyên tư vấn, thiết kế và chế tạo các hệ thống xử lý môi trường đạt tiêu chuẩn kỹ thuật.
         </p>
 
         <div class="grid sm:grid-cols-2 gap-5 mt-8">
@@ -173,7 +173,7 @@
         <div class="space-y-5 text-slate-600">
           <div class="bg-slate-50 p-5 rounded-2xl shadow-sm">
             <p class="font-semibold text-slate-800">Địa chỉ</p>
-            <p>Hải Phòng, Việt Nam</p>
+            <p>Long Biên, Hà nội, Việt Nam</p>
           </div>
 
           <div class="bg-slate-50 p-5 rounded-2xl shadow-sm">
@@ -210,11 +210,11 @@
   <footer class="bg-slate-900 text-slate-300 py-8 px-6">
     <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
       <div>
-        <h4 class="text-xl font-bold text-white">ECO TECH VIỆT</h4>
+        <h4 class="text-xl font-bold text-white">SHC-Membrane</h4>
         <p class="text-sm text-slate-400">Công ty chế tạo máy & hệ thống xử lý môi trường.</p>
       </div>
 
-      <p class="text-sm text-slate-500">© 2026 ECO TECH VIỆT. All rights reserved.</p>
+      <p class="text-sm text-slate-500">© 2026 SHC-Membrane. All rights reserved.</p>
     </div>
   </footer>
 
